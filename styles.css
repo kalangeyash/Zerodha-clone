@@ -1,0 +1,68 @@
+.top{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top:20px;
+    box-shadow: 2px 1px 2px #eee;
+    
+}
+
+#logo{
+    width: 120px;
+    height: 20px;
+    padding-top: 20px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+}
+
+.buttons{
+    padding:20px;
+    color:#666;
+    cursor: pointer;
+    
+}
+
+.mainimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top:20px;
+}
+
+.text{
+    display:flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.invest , .des {
+   
+    display:flex;
+    justify-content: center;
+    padding-top: 12px;
+    font-weight: 400;
+}
+
+.button{
+    display:flex; 
+  
+
+    background-color: #387ed1;
+    justify-content:center;
+    /* align-items: center; */
+    color: #fff;
+    font-size:1.2em;
+    padding: 0px 40px;
+  
+    margin-left: 45%;
+    margin-right:45%;
+   
+}
+.button:hover{
+    background-color:grey;
+    
+}
